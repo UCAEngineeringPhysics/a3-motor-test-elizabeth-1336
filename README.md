@@ -25,7 +25,15 @@ Make marks on both wheels at same spot before you start the testing [script](/es
       > - The speed for the right motor in RPM is about: 131 RPM
    2. (10%) What would be the reasons if the speeds of the motors were different? 
       > Potential reasons for my motors' speeds being different are equipment related rather than code related. The right motor being faster than the left is probably because it's receiving slightly more voltage from the battery than the left motor. This could be because our equipment, such as our wires and battery, are not "ideal". The left motor's connections to the battery might also be slightly looser than the right motor's, which would be another factor leading to an uneven voltage delivery.
-3. (10%) Upload images to show final location of the marks on each wheel. 
+3. (10%) Upload images to show final location of the marks on each wheel.
+   > Initial location of both wheels:
+   
+   > Final location of right wheel:
+   
+   > Final location of left wheel:
+   
+   > Final location of both wheels: 
+
    
 ## AI Usage Policy
 Please give credits to your AI assistance. Refer to the [syllabus](https://linzhanguca.github.io/_docs/robotics1-2024/syllabus.pdf) for the citation format.
