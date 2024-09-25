@@ -26,13 +26,21 @@ Make marks on both wheels at same spot before you start the testing [script](/es
    2. (10%) What would be the reasons if the speeds of the motors were different? 
       > Potential reasons for my motors' speeds being different are equipment related rather than code related. The right motor being faster than the left is probably because it's receiving slightly more voltage from the battery than the left motor. This could be because our equipment, such as our wires and battery, are not "ideal". The left motor's connections to the battery might also be slightly looser than the right motor's, which would be another factor leading to an uneven voltage delivery.
 3. (10%) Upload images to show final location of the marks on each wheel.
-   > Initial location of both wheels:
-   
-   > Final location of right wheel:
-   
-   > Final location of left wheel:
-   
-   > Final location of both wheels: 
+   > **Initial location of both wheels:**
+   > 
+   ![Screenshot_20240925-110837_Video Player](https://github.com/user-attachments/assets/f9e6e8c9-2513-4539-8bc4-46e61cfee447)
+
+   > **Final location of right wheel:**
+   > 
+   ![Screenshot_20240925-110819_Video Player](https://github.com/user-attachments/assets/67735f00-0d0b-455a-a60c-6ad253cc8b01)
+
+   > **Final location of left wheel:**
+   > 
+   ![Screenshot_20240925-105258_Video Player](https://github.com/user-attachments/assets/8526c6a1-ba60-439d-a9bd-d64ff29e388c)
+
+   > **Final location of both wheels:**
+   >  
+  ![Screenshot_20240925-105418_Video Player](https://github.com/user-attachments/assets/1b80b60b-5dbb-47f2-9716-f3ec7950f413)
 
    
 ## AI Usage Policy
